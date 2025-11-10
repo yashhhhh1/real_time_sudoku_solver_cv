@@ -1,0 +1,7 @@
+# Minimal requirements deduced from project imports
+numpy
+opencv-python
+tensorflow
+keras
+scipy
+h5py
